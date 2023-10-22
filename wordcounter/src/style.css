@@ -1,0 +1,13 @@
+
+
+h3{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input{
+    box-sizing: border-box;
+    padding: 50px 40px;
+    resize: none;
+    vertical-align: top;
+}
